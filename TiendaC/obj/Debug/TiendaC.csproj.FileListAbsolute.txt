@@ -1,0 +1,8 @@
+C:\Users\miakh\source\repos\TiendaC\obj\Debug\TiendaC.csproj.AssemblyReference.cache
+C:\Users\miakh\source\repos\TiendaC\obj\Debug\TiendaC.csproj.SuggestedBindingRedirects.cache
+C:\Users\miakh\source\repos\TiendaC\obj\Debug\TiendaC.csproj.CoreCompileInputs.cache
+C:\Users\miakh\source\repos\TiendaC\bin\Debug\TiendaC.exe.config
+C:\Users\miakh\source\repos\TiendaC\bin\Debug\TiendaC.exe
+C:\Users\miakh\source\repos\TiendaC\bin\Debug\TiendaC.pdb
+C:\Users\miakh\source\repos\TiendaC\obj\Debug\TiendaC.exe
+C:\Users\miakh\source\repos\TiendaC\obj\Debug\TiendaC.pdb
